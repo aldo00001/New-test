@@ -7,7 +7,6 @@ on:
 
 jobs:
   add-to-project:
-    permissions: write-all
     name: Add issue to project
     runs-on: ubuntu-latest
     steps:
